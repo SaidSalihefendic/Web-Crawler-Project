@@ -14,6 +14,6 @@ And, voila! Build the whole thing and it should work!
 
 Any bug reports, advices and comments will be appreciated!
 
-I used cURL binary from https://curl.haxx.se/ in order to achieve my goal with this project!
+I used cURL binary from https://curl.haxx.se/ in order to achieve my goal!
 
 Credits: Anes Cehic, Kristijan Jelic (colleagues)
