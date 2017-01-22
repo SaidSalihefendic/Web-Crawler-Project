@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Marker pen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marker_pen","wgTitle":"Marker pen","wgCurRevisionId":751433053,"wgRevisionId":751433053,"wgArticleId":478313,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from August 2011","All articles needing additional references","Commons category with local link same as on Wikidata","American inventions","Pens","Stationery"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marker_pen","wgRelevantArticleId":478313,"wgRequestId":"WHVyjApAAEUAAUi9Wg0AAABL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q493615","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.7"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Marker_pen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marker_pen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marker_pen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Marker_pen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Marker_pen rootpage-Marker_pen skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Marker pen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">"Felt tip" redirects here. For the EP by Love Is All, see <a href="/wiki/Felt_Tip_(EP)" title="Felt Tip (EP)">Felt Tip (EP)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Marker_pen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Caran_d%27Ache_Filzstifte.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caran_d%27Ache_Filzstifte.JPG/220px-Caran_d%27Ache_Filzstifte.JPG" width="220" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caran_d%27Ache_Filzstifte.JPG/330px-Caran_d%27Ache_Filzstifte.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caran_d%27Ache_Filzstifte.JPG/440px-Caran_d%27Ache_Filzstifte.JPG 2x" data-file-width="3940" data-file-height="3249" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Caran_d%27Ache_Filzstifte.JPG" class="internal" title="Enlarge"></a></div>
+A box of colored felt-tip pens (made by <a href="/wiki/Caran_d%27Ache_(company)" title="Caran d'Ache (company)">Caran d'Ache</a>).</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marker1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/220px-Marker1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/330px-Marker1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/440px-Marker1.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marker1.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Highlighter" title="Highlighter">Highlighters</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sharpie-fc.jpg" class="image"><img alt="Full spectrum of Sharpie markers." src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sharpie-fc.jpg/220px-Sharpie-fc.jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sharpie-fc.jpg/330px-Sharpie-fc.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sharpie-fc.jpg/440px-Sharpie-fc.jpg 2x" data-file-width="620" data-file-height="350" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sharpie-fc.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sharpie_(marker)" title="Sharpie (marker)">Sharpie markers</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marker_pen.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Marker_pen.JPG/220px-Marker_pen.JPG" width="220" height="49" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Marker_pen.JPG/330px-Marker_pen.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Marker_pen.JPG/440px-Marker_pen.JPG 2x" data-file-width="1024" data-file-height="230" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marker_pen.JPG" class="internal" title="Enlarge"></a></div>
+Marker</div>
+</div>
+</div>
+<p>A <b>marker pen</b>, <b>fineliner</b>, <b>marking pen</b>, <b>felt-tip marker</b>, <b>felt-tip pen</b>, <b>flow</b>, <b>marker</b> or <b>texta</b> (in <a href="/wiki/Australia" title="Australia">Australia</a>) or <b>sketch pen</b> (in <a href="/wiki/India" title="India">India</a>), is a <a href="/wiki/Pen" title="Pen">pen</a> which has its own <a href="/wiki/Ink" title="Ink">ink</a>-source, and a tip made of porous, pressed fibers such as <a href="/wiki/Felt" title="Felt">felt</a>.<sup id="cite_ref-SBTCModule6_1-0" class="reference"><a href="#cite_note-SBTCModule6-1">[1]</a></sup> A permanent marker consists of a container (glass, aluminum or plastic) and a core of an absorbent material. This filling serves as a carrier for the ink. The upper part of the marker contains the nib that was made in earlier time of a hard felt material, and a cap to prevent the marker from drying out. Until the early 1990s the most common solvents that were used for the ink were <a href="/wiki/Toluene" title="Toluene">toluene</a> and <a href="/wiki/Xylene" title="Xylene">xylene</a>. These two substances are both harmful and characterized by a very strong smell. Today, the ink is usually made on the basis of alcohols (e.g. <a href="/wiki/1-propanol" class="mw-redirect" title="1-propanol">1-propanol</a>, <a href="/wiki/1-butanol" class="mw-redirect" title="1-butanol">1-butanol</a>, <a href="/wiki/Diacetone_alcohol" title="Diacetone alcohol">diacetone alcohol</a> and <a href="/wiki/Cresols" class="mw-redirect" title="Cresols">cresols</a>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Permanent_marker"><span class="tocnumber">2.1</span> <span class="toctext">Permanent marker</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Highlighters"><span class="tocnumber">2.2</span> <span class="toctext">Highlighters</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Non-permanent_marker"><span class="tocnumber">2.3</span> <span class="toctext">Non-permanent marker</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Security_marker"><span class="tocnumber">2.4</span> <span class="toctext">Security marker</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Election_marker"><span class="tocnumber">2.5</span> <span class="toctext">Election marker</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Porous_point_pen"><span class="tocnumber">2.6</span> <span class="toctext">Porous point pen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Dialectal_variations"><span class="tocnumber">3</span> <span class="toctext">Dialectal variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Asia"><span class="tocnumber">3.1</span> <span class="toctext">Asia</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Australia"><span class="tocnumber">3.2</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#French-speaking_countries"><span class="tocnumber">3.3</span> <span class="toctext">French-speaking countries</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Germany"><span class="tocnumber">3.4</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Spanish-speaking_countries"><span class="tocnumber">3.5</span> <span class="toctext">Spanish-speaking countries</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#New_Zealand"><span class="tocnumber">3.6</span> <span class="toctext">New Zealand</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Russia.2C_Lithuania.2C_Ukraine_and_the_Balkans"><span class="tocnumber">3.7</span> <span class="toctext">Russia, Lithuania, Ukraine and the Balkans</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Romania"><span class="tocnumber">3.8</span> <span class="toctext">Romania</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#South_Africa"><span class="tocnumber">3.9</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Canada_and_United_States"><span class="tocnumber">3.10</span> <span class="toctext">Canada and United States</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Italy"><span class="tocnumber">3.11</span> <span class="toctext">Italy</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Czech_and_Slovak_republic"><span class="tocnumber">3.12</span> <span class="toctext">Czech and Slovak republic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lee Newman patented a felt-tipped marking pen in 1910.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In 1926 Benjamin Paskach patented a "fountain paintbrush"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> as he called it which consisted of a sponge-tipped handle containing various paint colors. Markers of this sort began to be popularized with the sale of <a href="/wiki/Sidney_Rosenthal" title="Sidney Rosenthal">Sidney Rosenthal</a>'s Magic Marker (1953) which consisted of a glass tube of ink with a felt wick. By 1958 use of felt-tipped markers was commonplace for a variety of applications such as lettering, labeling, and creating posters.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The year 1962 brought the development of the modern fiber-tipped pen (in contrast to the marker, which generally has a thicker point) by Yukio Horie of the Tokyo Stationery Company (which later became <a href="/wiki/Pentel" title="Pentel">Pentel</a>).</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Permanent_marker">Permanent marker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=3" title="Edit section: Permanent marker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Permanent_marker" title="Permanent marker">Permanent markers</a> are porous pens that can write on surfaces such as glass, plastic, wood, metal, and stone. The ink is generally resistant to rubbing and water, and can last for many years. Depending on the surface and the marker used, however, the marks can often be removed with either vigorous scrubbing or chemicals such as acetone.</p>
+<h3><span class="mw-headline" id="Highlighters">Highlighters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=4" title="Edit section: Highlighters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Highlighter" title="Highlighter">Highlighters</a> are permanent markers used to highlight and cover over existing writing while still leaving the writing readable.</p>
+<h3><span class="mw-headline" id="Non-permanent_marker">Non-permanent marker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=5" title="Edit section: Non-permanent marker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_(8650399785).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg/220px-Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg/330px-Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg/440px-Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_%288650399785%29.jpg 2x" data-file-width="2592" data-file-height="1936" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Filmas_%22D%C5%BEimlai_r%C5%ABdi_rallall%C4%81%22_uz%C5%86em%C5%A1ana_Ministru_kabinet%C4%81_(8650399785).jpg" class="internal" title="Enlarge"></a></div>
+Whiteboard marker on a <a href="/wiki/Clapperboard" title="Clapperboard">clapperboard</a>.</div>
+</div>
+</div>
+<p>A non-permanent marker (also called a <i>whiteboard marker</i> or <i>dry-erase marker</i>) uses an erasable ink, made to be used on a slick, non-porous writing surface, for temporary writing with <a href="/wiki/Overhead_projector" title="Overhead projector">overhead projectors</a>, <a href="/wiki/Whiteboard" title="Whiteboard">whiteboards</a>, and the like. They may also be used by children, making marks that are easy to clean. The erasable ink does not contain the toxic chemical compounds <a href="/wiki/Xylene" title="Xylene">xylene</a> and/or <a href="/wiki/Toluene" title="Toluene">toluene</a> as have been used in permanent markers.</p>
+<p><a href="/wiki/Wet_erase_marker" class="mw-redirect" title="Wet erase marker">Wet erase markers</a> are another version that are used on overhead projectors, signboards, whiteboards, and other non-porous surfaces.</p>
+<h3><span class="mw-headline" id="Security_marker">Security marker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=6" title="Edit section: Security marker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Special "<a href="/wiki/Security" title="Security">security</a>" markers, with <a href="/wiki/Fluorescence" title="Fluorescence">fluorescent</a> but otherwise invisible inks, are used for marking valuables in case of <a href="/wiki/Burglary" title="Burglary">burglary</a>. The owner of a stolen, but recovered item can be determined by using <a href="/wiki/Ultraviolet_light" class="mw-redirect" title="Ultraviolet light">ultraviolet light</a> to make the writing visible.</p>
+<h3><span class="mw-headline" id="Election_marker">Election marker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=7" title="Edit section: Election marker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marker pens with <a href="/wiki/Election_ink" title="Election ink">election ink</a> (an indelible dye and often a <a href="/wiki/Photosensitive" class="mw-redirect" title="Photosensitive">photosensitive</a> agent such as <a href="/wiki/Silver_nitrate" title="Silver nitrate">silver nitrate</a>) used to mark the finger, and especially the <a href="/wiki/Cuticle" title="Cuticle">cuticle</a>, of voters in elections in order to prevent <a href="/wiki/Electoral_fraud" title="Electoral fraud">electoral fraud</a> such as double voting. The stain stays visible for a week or two and may also be used to assist in <a href="/wiki/Vaccination" title="Vaccination">vaccinations</a> in <a href="/wiki/Developing_country" title="Developing country">developing world</a> communities and <a href="/wiki/Refugee" title="Refugee">refugee</a> camps.</p>
+<h3><span class="mw-headline" id="Porous_point_pen">Porous point pen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=8" title="Edit section: Porous point pen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <i>porous point pen</i> contains a point that is made of some porous material such as <a href="/wiki/Felt" title="Felt">felt</a> or <a href="/wiki/Ceramic" title="Ceramic">ceramic</a>. <a href="/wiki/Technical_drawing" title="Technical drawing">Draftsman</a>'s pens usually have a ceramic tip since this wears well and does not broaden when pressure is applied while writing.</p>
+<h2><span class="mw-headline" id="Dialectal_variations">Dialectal variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=9" title="Edit section: Dialectal variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The use of the terms "marker" and "felt-tipped pen" varies significantly among different parts of the world. This is because most English dialects contain words for particular types of marker, often <a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">generic</a> brand names, but there are no such terms in widespread international use.</p>
+<h3><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=10" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/India" title="India">India</a>, felt-tip pens are referred to as "sketch pens" because they are mainly used for sketching purposes whereas the permanent felt-tip markers are referred to as just "markers". In <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a> and <a href="/wiki/Singapore" title="Singapore">Singapore</a>, marker pens are simply called markers. In the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, a marker is commonly referred to as a "<a href="/wiki/Pentel" title="Pentel">Pentel</a> pen", regardless of brand. In <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, a marker pen is referred to as "Spidol". In <a href="/wiki/South_Korea" title="South Korea">South Korea</a> and <a href="/wiki/Japan" title="Japan">Japan</a>, marker pens are referred to as "sign pens," "name pens," or "felt pens." In Japan, permanent pens are also referred to as "Magic" (from a famous pen brand name).</p>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=11" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Australia" title="Australia">Australia</a>, the term "marker" usually refers only to large-tip markers, and the terms "felt-tip" and "felt pen" usually refer only to fine-tip markers. Markers in Australia are often <a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">generically</a> called "texta", after a brand name of a type of <a href="/wiki/Permanent_marker" title="Permanent marker">permanent marker</a>. Some variation in naming convention occurs between the states, for example in Queensland the brand name "nikko" has been commonly adopted.</p>
+<h3><span class="mw-headline" id="French-speaking_countries">French-speaking countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=12" title="Edit section: French-speaking countries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The French term for felt-tip marker is "<a href="https://fr.wikipedia.org/wiki/Stylo-feutre" class="extiw" title="fr:Stylo-feutre">feutre</a>". For larger markers, the name "marqueur" is also used, and permanent markers are called "<a href="https://fr.wikipedia.org/wiki/Marqueur_permanent" class="extiw" title="fr:Marqueur permanent">marqueur permanent</a>" or "marqueur indélébile".</p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=13" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The common German term for felt pen is <i>Filzstift</i> or "Filzschreiber" (colloquial "Filzer") or "Fasermaler". These are often used by children for sketching purposes, and should not be toxic. A highlighter is called <i>Textmarker</i> or "Leuchtstift" (the verb "leuchten" means to shine or to glow / the noun "Stift" means pen). Permanent markers are usually referred to as <i><a href="/wiki/Edding" title="Edding">Edding</a></i> after the leading brand for markers.</p>
+<h3><span class="mw-headline" id="Spanish-speaking_countries">Spanish-speaking countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=14" title="Edit section: Spanish-speaking countries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Spanish-speaking_countries" class="mw-redirect" title="Spanish-speaking countries">Spanish-speaking countries</a>, common terms for markers are <i>rotulador</i>, <i>marcador</i>, and <i>plumón</i>. Highlighting markers are known as <i>rotulador fluorescente</i>, <i>resaltador</i>, <i>destacador</i>, and <i>fosforito</i>.</p>
+<h3><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=15" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The generic terms for fine-tipped markers are usually "felt pen" or "felts". Large permanent markers are called 'vivids' after a popular brand sold there.</p>
+<h3><span class="mw-headline" id="Russia.2C_Lithuania.2C_Ukraine_and_the_Balkans">Russia, Lithuania, Ukraine and the Balkans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=16" title="Edit section: Russia, Lithuania, Ukraine and the Balkans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Smaller felt-pens (colorful ones used by children) are generally called <i><a href="/wiki/Flo-Master" title="Flo-Master">Фломастер (Flomaster)</a></i>, and permanent markers are called <i>Маркер (Marker)</i>.</p>
+<h3><span class="mw-headline" id="Romania">Romania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=17" title="Edit section: Romania">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The generic term used for most felt-tip pens in <a href="/wiki/Romania" title="Romania">Romania</a> is "carioca" (pl. "carioci"), after the brand name of the first commercialised felt tips in Romania during the communist period. In recent times, the English word "marker" has been adopted (spelled as in English but with the plural "markere") and is used especially when referring to the permanent and highlighter variety of felt-tip pens.</p>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=18" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term "Koki" is used for both felt pens and markers, by South Africans, as well as the standard "marker".</p>
+<h3><span class="mw-headline" id="Canada_and_United_States">Canada and United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=19" title="Edit section: Canada and United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the United States, the word "marker" is used as well as "magic marker", the latter being a <a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">genericized trademark</a>. The word "sharpie" is also now used as a genericized trademark.</p>
+<p>In Canada and the US, "Magic Marker" is sometimes used to refer to "reveal markers" for "magic picture books" where the colors of a picture are revealed by a colorless marker. <a href="/wiki/Sharpie_(marker)" title="Sharpie (marker)">Sharpie</a> is a popular brand of permanent markers used for labeling. Markers are also sometimes referred to as felt-pens or felts in some parts of Canada.</p>
+<h3><span class="mw-headline" id="Italy">Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=20" title="Edit section: Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Italian_language" title="Italian language">Italian</a> the word "pennarello" is generally used.</p>
+<h3><span class="mw-headline" id="Czech_and_Slovak_republic">Czech and Slovak republic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=21" title="Edit section: Czech and Slovak republic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Czech_language" title="Czech language">Czech</a> and also <a href="/wiki/Slovak_language" title="Slovak language">Slovak</a> languages the general word used is "fixa".</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=22" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Highlighter" title="Highlighter">Highlighter</a></li>
+<li><a href="/wiki/List_of_pen_types,_brands_and_companies" title="List of pen types, brands and companies">List of pen types, brands and companies</a></li>
+<li><a href="/wiki/Paint_marker" title="Paint marker">Paint marker</a></li>
+<li><a href="/wiki/Sharpie_(marker)" title="Sharpie (marker)">Sharpie</a></li>
+</ul>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:WPVA-khamsa.svg" class="image"><img alt="WPVA-khamsa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/16px-WPVA-khamsa.svg.png" width="16" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/25px-WPVA-khamsa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/32px-WPVA-khamsa.svg.png 2x" data-file-width="124" data-file-height="160" /></a></span><a href="/wiki/Portal:Visual_arts" title="Portal:Visual arts">Visual arts portal</a></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marker_pen&amp;action=edit&amp;section=23" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Marker_pens" class="extiw" title="commons:Category:Marker pens">Marker pens</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-SBTCModule6-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-SBTCModule6_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">www.sbctc.edu (adapted). <a rel="nofollow" class="external text" href="http://www.saylor.org/site/wp-content/uploads/2011/12/Module-6.pdf">"Module 6: Media for 2-D Art"</a> <span style="font-size:85%;">(PDF)</span>. Saylor.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarker+pen&amp;rft.au=www.sbctc.edu+%28adapted%29&amp;rft.btitle=Module+6%3A+Media+for+2-D+Art&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.saylor.org%2Fsite%2Fwp-content%2Fuploads%2F2011%2F12%2FModule-6.pdf&amp;rft.pub=Saylor.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Lee W. Newman, Marking Pen, <a rel="nofollow" class="external text" href="http://www.google.com/patents?id=szFpAAAAEBAJ">U.S. Patent 946,149</a>. January 11, 1910.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.freepatentsonline.com/1601596.pdf">"Fountain paintbrush"</a> <span style="font-size:85%;">(PDF)</span>. Freepatentsonline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarker+pen&amp;rft.btitle=Fountain+paintbrush&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.freepatentsonline.com%2F1601596.pdf&amp;rft.pub=Freepatentsonline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://inventors.about.com/library/inventors/blpen.htm">History of Pens &amp; Writing Instruments</a>, About Inventors site. Retrieved March 11, 2007.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Pens" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pens" title="Template:Pens"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pens" title="Template talk:Pens"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pens&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Pens" style="font-size:114%"><a href="/wiki/Pen" title="Pen">Pens</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_pen" title="Active pen">Active pen</a></li>
+<li><a href="/wiki/Ballpoint_pen" title="Ballpoint pen">Ballpoint/biro</a></li>
+<li><a href="/wiki/Demonstrator_pen" title="Demonstrator pen">Demonstrator</a></li>
+<li><a href="/wiki/Digital_pen" title="Digital pen">Digital</a></li>
+<li><a href="/wiki/Dip_pen" title="Dip pen">Dip</a></li>
+<li><a href="/wiki/Fountain_pen" title="Fountain pen">Fountain</a></li>
+<li><a href="/wiki/Fudepen" title="Fudepen">Fudepen</a></li>
+<li><a href="/wiki/Gel_pen" title="Gel pen">Gel</a></li>
+<li><a href="/wiki/Ink_brush" title="Ink brush">Ink brush</a></li>
+<li><a href="/wiki/Light_pen" title="Light pen">Light</a></li>
+<li><a href="/wiki/Qalam" title="Qalam">Qalam</a></li>
+<li><a href="/wiki/Quill" title="Quill">Quill</a></li>
+<li><a href="/wiki/Rastrum" title="Rastrum">Rastrum</a></li>
+<li><a href="/wiki/Reed_pen" title="Reed pen">Reed</a></li>
+<li><a href="/wiki/Rollerball_pen" title="Rollerball pen">Rollerball</a></li>
+<li><a href="/wiki/Ruling_pen" title="Ruling pen">Ruling</a></li>
+<li><a href="/wiki/Skin_pens" title="Skin pens">Skin</a></li>
+<li><a href="/wiki/Stylus" title="Stylus">Stylus</a></li>
+<li><a href="/wiki/Technical_pen" title="Technical pen">Technical (rapidograph)</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><strong class="selflink">Markers</strong></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Dry erase</strong></li>
+<li><a href="/wiki/Highlighter" title="Highlighter">Highlighter</a></li>
+<li><a href="/wiki/Paint_marker" title="Paint marker">Paint</a></li>
+<li><a href="/wiki/Permanent_marker" title="Permanent marker">Permanent</a></li>
+<li><a href="/wiki/UV_marker" title="UV marker">UV</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Parts and tools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blotting_paper" title="Blotting paper">Blotting paper</a></li>
+<li><a href="/wiki/Desk_blotter" class="mw-redirect" title="Desk blotter">Ink blotter</a></li>
+<li><a href="/wiki/Inkwell" title="Inkwell">Inkwell</a></li>
+<li><a href="/wiki/Nib_(pen)" title="Nib (pen)">Nib</a> (<a href="/wiki/Flex_nibs" class="mw-redirect" title="Flex nibs">Flex nibs</a>)</li>
+<li><a href="/wiki/Penknife" title="Penknife">Penknife</a></li>
+<li><a href="/wiki/Pounce_(calligraphy)" title="Pounce (calligraphy)">Pounce</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ink" title="Ink">Pen inks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alizarine_ink" title="Alizarine ink">Alizarine</a></li>
+<li><a href="/wiki/Fountain_pen_ink" title="Fountain pen ink">Fountain pen</a></li>
+<li><a href="/wiki/India_ink" title="India ink">India/Indian</a></li>
+<li><a href="/wiki/Iron_gall_ink" title="Iron gall ink">Iron gall</a></li>
+<li><a href="/wiki/Stark%27s_ink" title="Stark's ink">Stark's</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ballpoint_pen_artwork" title="Ballpoint pen artwork">Ballpoint pen drawing</a></li>
+<li><a href="/wiki/Ballpoint_pen_knife" title="Ballpoint pen knife">Ballpoint pen knife</a></li>
+<li><a href="/wiki/Counterfeit_banknote_detection_pen" title="Counterfeit banknote detection pen">Counterfeit banknote detection pen</a></li>
+<li><a href="/wiki/Birmingham_pen_trade" title="Birmingham pen trade">Birmingham pen trade</a>
+<ul>
+<li><a href="/wiki/Birmingham_Pen_Trade_Heritage_Association" title="Birmingham Pen Trade Heritage Association">Birmingham Pen Trade Heritage Association</a></li>
+<li><a href="/wiki/Pen_Museum" title="Pen Museum">Pen Museum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Kalamos" title="Kalamos">Kalamos</a></li>
+<li><a href="/wiki/Pen_computing" title="Pen computing">Pen computing</a></li>
+<li><a href="/wiki/Penmanship" title="Penmanship">Penmanship</a></li>
+<li><a href="/wiki/Pen_painting" title="Pen painting">Pen painting</a></li>
+<li><a href="/wiki/Pen_spinning" title="Pen spinning">Pen spinning</a></li>
+<li><a href="/wiki/Retipping" title="Retipping">Retipping</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Cartoonist" title="Cartoonist">Cartooning</a></li>
+<li><a href="/wiki/Mechanical_pencil" title="Mechanical pencil">Mechanical pencil</a></li>
+<li><a href="/wiki/Narayam" title="Narayam">Narayam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" />&#160;<b><a href="/wiki/List_of_pen_types,_brands_and_companies" title="List of pen types, brands and companies">List of pen types, brands and companies</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20161230180315
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 875/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23930/2097152 bytes
+Template argument size: 369/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.7 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  164.763      1 - -total
+ 27.02%   44.523      1 - Template:Reflist
+ 23.32%   38.415      2 - Template:Cite_web
+ 19.70%   32.460      1 - Template:Refimprove
+ 18.29%   30.132      2 - Template:Navbox
+ 17.21%   28.352      1 - Template:Ambox
+ 16.74%   27.579      1 - Template:Pens
+ 16.71%   27.528      1 - Template:Commons_category
+ 12.12%   19.975      1 - Template:Redirect
+  5.92%    9.748      1 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:478313-0!*!0!!en!4!* and timestamp 20161230180315 and revision id 751433053
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marker_pen&amp;oldid=751433053">https://en.wikipedia.org/w/index.php?title=Marker_pen&amp;oldid=751433053</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_inventions" title="Category:American inventions">American inventions</a></li><li><a href="/wiki/Category:Pens" title="Category:Pens">Pens</a></li><li><a href="/wiki/Category:Stationery" title="Category:Stationery">Stationery</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2011" title="Category:Articles needing additional references from August 2011">Articles needing additional references from August 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Marker+pen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marker+pen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Marker_pen"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Marker_pen"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Marker_pen" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Marker_pen&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marker_pen&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marker_pen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marker_pen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Marker_pen&amp;oldid=751433053" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Marker_pen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q493615" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Marker_pen&amp;id=751433053" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Marker+pen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Marker+pen&amp;returnto=Marker+pen&amp;oldid=751433053&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Marker_pen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Marker_pens" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%84%D9%85_%D8%AE%D8%B7%D8%A7%D8%B7" title="قلم خطاط – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Marker" title="Marker – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Retolador" title="Retolador – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Popisova%C4%8D" title="Popisovač – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Filzstift" title="Filzstift – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rotulador" title="Rotulador – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Feltokrajono" title="Feltokrajono – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Errotuladore" title="Errotuladore – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%DA%98%DB%8C%DA%A9" title="ماژیک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Stylo-feutre" title="Stylo-feutre – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%EC%BB%A4%ED%8E%9C" title="마커펜 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D5%B8%D6%82%D5%B6%D5%A1%D5%BE%D5%B8%D6%80_%D5%B6%D5%B7%D5%AB%D5%B9%D5%B6%D5%A5%D6%80" title="Գունավոր նշիչներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Flomaster" title="Flomaster – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Pennarello" title="Pennarello – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%A9" title="טוש – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A4%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80" title="Фломастер – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Peniculus" title="Peniculus – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Feuter" title="Feuter – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Flomasteris" title="Flomasteris – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Viltstift" title="Viltstift – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B0" title="मार्कर – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%83%9A%E3%83%B3" title="フェルトペン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tusjpenn" title="Tusjpenn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pisak" title="Pisak – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Caneta_hidrogr%C3%A1fica" title="Caneta hidrográfica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Carioc%C4%83" title="Cariocă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80" title="Фломастер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Marker" title="Marker – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80" title="Фломастер – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tussikyn%C3%A4" title="Tussikynä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tuschpenna" title="Tuschpenna – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8B%E0%AE%B2%E0%AF%8D" title="குறிப்பான் எழுதுகோல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5" title="ปากกาเคมี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%80_(%D1%84%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80)" title="Маркер (фломастер) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%B0%B4%E7%AD%86" title="水筆 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%85%8B%E7%AD%86" title="麥克筆 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q493615#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 November 2016, at 17:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Marker_pen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1274"});});</script>
+	</body>
+</html>

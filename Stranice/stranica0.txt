@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pen","wgTitle":"Pen","wgCurRevisionId":761247675,"wgRevisionId":761247675,"wgArticleId":75838,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2010","Commons category with local link different than on Wikidata","Pens","Writing implements","Stationery","Domestic implements"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pen","wgRelevantArticleId":75838,"wgRequestId":"WIPYvgpAMFIAAJRfhhYAAABR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q165447","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.8"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pen rootpage-Pen skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">For other uses, see <a href="/wiki/Pen_(disambiguation)" class="mw-disambig" title="Pen (disambiguation)">Pen (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Carandache_Ecridor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carandache_Ecridor.jpg/220px-Carandache_Ecridor.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carandache_Ecridor.jpg/330px-Carandache_Ecridor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ae/Carandache_Ecridor.jpg 2x" data-file-width="400" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carandache_Ecridor.jpg" class="internal" title="Enlarge"></a></div>
+A luxury pen</div>
+</div>
+</div>
+<p>A <b>pen</b> (<a href="/wiki/Latin" title="Latin">Latin</a>: <i>penna</i>, feather) is a <a href="/wiki/Writing_implement" title="Writing implement">writing implement</a> used to apply <a href="/wiki/Ink" title="Ink">ink</a> to a surface, such as <a href="/wiki/Paper" title="Paper">paper</a>, for <a href="/wiki/Writing" title="Writing">writing</a> or <a href="/wiki/Drawing" title="Drawing">drawing</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Historically, <a href="/wiki/Reed_pen" title="Reed pen">reed pens</a>, <a href="/wiki/Quill" title="Quill">quill</a> pens, and <a href="/wiki/Dip_pen" title="Dip pen">dip pens</a> were used, with a <a href="/wiki/Nib_(pen)" title="Nib (pen)">nib</a> dipped in ink. <a href="/wiki/Ruling_pen" title="Ruling pen">Ruling pens</a> allow precise adjustment of line width, and still find a few specialized uses, but <a href="/wiki/Technical_pen" title="Technical pen">technical pens</a> such as the <a href="/wiki/Rapidograph" class="mw-redirect" title="Rapidograph">Rapidograph</a> are more commonly used. Modern types also include <a href="/wiki/Ballpoint_pen" title="Ballpoint pen">ballpoint</a>, <a href="/wiki/Rollerball_pen" title="Rollerball pen">rollerball</a>, <a href="/wiki/Fountain_pen" title="Fountain pen">fountain</a>, and <a href="/wiki/Marker_pen" title="Marker pen">felt</a> or <a href="/wiki/Porous_point_pen" class="mw-redirect" title="Porous point pen">ceramic tip</a> pens.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_pens"><span class="tocnumber">1</span> <span class="toctext">Types of pens</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Modern"><span class="tocnumber">1.1</span> <span class="toctext">Modern</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Historic"><span class="tocnumber">1.2</span> <span class="toctext">Historic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types_of_pens">Types of pens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=1" title="Edit section: Types of pens">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Modern">Modern</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=2" title="Edit section: Modern">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main modern types of pens can be categorized by the kind of writing tip or point on the pen:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:03-BICcristal2008-03-26.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/03-BICcristal2008-03-26.jpg/220px-03-BICcristal2008-03-26.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/03-BICcristal2008-03-26.jpg/330px-03-BICcristal2008-03-26.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/03-BICcristal2008-03-26.jpg/440px-03-BICcristal2008-03-26.jpg 2x" data-file-width="2512" data-file-height="1682" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:03-BICcristal2008-03-26.jpg" class="internal" title="Enlarge"></a></div>
+An inexpensive ballpoint pen</div>
+</div>
+</div>
+<ul>
+<li>A <b><a href="/wiki/Ballpoint_pen" title="Ballpoint pen">ballpoint pen</a></b> dispenses ink by rolling a <a href="/wiki/Ball_bearing" title="Ball bearing">small hard sphere</a>, usually 0.5–1.2&#160;mm and made of <a href="/wiki/Brass" title="Brass">brass</a>, <a href="/wiki/Steel" title="Steel">steel</a> or <a href="/wiki/Tungsten_carbide" title="Tungsten carbide">tungsten carbide</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The ink dries almost immediately on contact with paper. The ballpoint pen is usually reliable and comes in both inexpensive and expensive types. It has replaced the fountain pen as the most common <a href="/wiki/Tool" title="Tool">tool</a> for everyday writing.</li>
+<li>A <b><a href="/wiki/Rollerball_pen" title="Rollerball pen">rollerball pen</a></b> dispenses a water-based liquid or <a href="/wiki/Gel_pen" title="Gel pen">gel</a> ink through a ball tip similar to that of a ballpoint pen. The less-viscous ink is more easily absorbed by paper than oil-based ink, and the pen moves more easily across a writing surface. The rollerball pen was initially designed to combine the convenience of a ballpoint pen with the smooth "wet ink" effect of a fountain pen. Gel inks are available in a range of colors, including <a href="/wiki/Metallic_paint" title="Metallic paint">metallic paint</a> colors, <a href="/wiki/Glitter" title="Glitter">glitter</a> effects, <a href="/wiki/Neon" title="Neon">neon</a>, blurred effects, <a href="/wiki/Colorfulness" title="Colorfulness">saturated</a> colors, <a href="/wiki/Pastel" title="Pastel">pastel</a> tones, <a href="/wiki/Vibrant" class="mw-redirect" title="Vibrant">vibrant</a> shades, <a href="/wiki/Shade_(color)" class="mw-redirect" title="Shade (color)">shady</a> colors, <a href="/wiki/Invisible_ink" title="Invisible ink">invisible ink</a>, <a href="/wiki/See-through" class="mw-redirect" title="See-through">see-through</a> effect, shiny colors, and glow-in-the-dark effects.</li>
+<li>A <b><a href="/wiki/Fountain_pen" title="Fountain pen">fountain pen</a></b> uses water-based liquid <a href="/wiki/Ink" title="Ink">ink</a> delivered through a <i><a href="/wiki/Nib_(pen)" title="Nib (pen)">nib</a></i>. The ink flows from a reservoir through a "feed" to the nib, then through the nib, due to <a href="/wiki/Capillary_action" title="Capillary action">capillary action</a> and gravity. The nib has no moving parts and delivers ink through a thin slit to the writing surface. A fountain pen reservoir can be refillable or disposable, this disposable type being an <i>ink cartridge</i>. A pen with a refillable reservoir may have a mechanism, such as a piston, to draw ink from a bottle through the nib, or it may require refilling with an <a href="/wiki/Pipette" title="Pipette">eyedropper</a>. Refill reservoirs, also known as <i>cartridge converters</i>, are available for some pens which use disposable cartridges.</li>
+<li>A <b><a href="/wiki/Marker_pen" title="Marker pen">marker</a></b>, or <b>felt-tip pen</b>, has a porous tip of fibrous material. The smallest, finest-tipped markers are used for writing on <a href="/wiki/Paper" title="Paper">paper</a>. Medium-tip markers are often used by children for coloring and drawing. Larger markers are used for writing on other surfaces such as corrugated boxes, <a href="/wiki/Whiteboard" title="Whiteboard">whiteboards</a> and for <a href="/wiki/Chalkboard" class="mw-redirect" title="Chalkboard">chalkboards</a>, often called "liquid chalk" or "chalkboard markers." Markers with wide tips and bright but <a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">transparent</a> ink, called <i><a href="/wiki/Highlighter" title="Highlighter">highlighters</a></i>, are used to mark existing text. Markers designed for children or for temporary writing (as with a whiteboard or overhead projector) typically use <a href="/wiki/Non-permanent_marker" class="mw-redirect" title="Non-permanent marker">non-permanent inks</a>. Large markers used to label shipping cases or other packages are usually <a href="/wiki/Permanent_marker" title="Permanent marker">permanent markers</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Historic">Historic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=3" title="Edit section: Historic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These historic types of pens are no longer in common use as writing instruments, but may be used by calligraphers and other artists:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dip_Pen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dip_Pen.jpg/220px-Dip_Pen.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dip_Pen.jpg/330px-Dip_Pen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dip_Pen.jpg/440px-Dip_Pen.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dip_Pen.jpg" class="internal" title="Enlarge"></a></div>
+A dip pen</div>
+</div>
+</div>
+<ul>
+<li>A <b><a href="/wiki/Dip_pen" title="Dip pen">dip pen</a></b> (or <i>nib pen</i>) consists of a metal <a href="/wiki/Nib_(pen)" title="Nib (pen)">nib</a> with <a href="/wiki/Capillary_action" title="Capillary action">capillary channels</a>, like that of a fountain pen, mounted on a handle or holder, often made of wood. A dip pen usually has no ink reservoir and must be repeatedly recharged with ink while <a href="/wiki/Drawing" title="Drawing">drawing</a> or <a href="/wiki/Writing" title="Writing">writing</a>. The dip pen has certain advantages over a fountain pen. It can use waterproof pigmented (particle-and-binder-based) inks, such as so-called <i><a href="/wiki/India_ink" title="India ink">India ink</a></i>, drawing ink, or <a href="/w/index.php?title=Acrylic_inks&amp;action=edit&amp;redlink=1" class="new" title="Acrylic inks (page does not exist)">acrylic inks</a>, which would destroy a fountain pen by clogging, as well as the traditional <a href="/wiki/Iron_gall_ink" title="Iron gall ink">iron gall ink</a>, which can cause <a href="/wiki/Corrosion" title="Corrosion">corrosion</a> in a fountain pen. Dip pens are now mainly used in <a href="/wiki/Illustration" title="Illustration">illustration</a>, <a href="/wiki/Calligraphy" title="Calligraphy">calligraphy</a>, and <a href="/wiki/Comics" title="Comics">comics</a>. A particularly fine-pointed type of dip pen known as a <i>crowquill</i> is a favorite instrument of artists, such as <a href="/wiki/David_Stone_Martin" title="David Stone Martin">David Stone Martin</a> and <a href="/wiki/Jay_Lynch" title="Jay Lynch">Jay Lynch</a>, because its flexible metal point can create a variety of delicate lines, textures and tones with slight pressures while drawing.</li>
+<li>The <b><a href="/wiki/Ink_brush" title="Ink brush">ink brush</a></b> is the traditional writing implement in East Asian calligraphy. The body of the brush can be made from either bamboo, or rarer materials such as red sandalwood, glass, ivory, silver, and gold. The head of the brush can be made from the hair (or feathers) of a wide variety of animals, including the weasel, rabbit, deer, chicken, duck, goat, pig, tiger, etc. There is also a tradition in both China and Japan of making a brush using the hair of a newborn, as a once-in-a-lifetime souvenir for the child. This practice is associated with the legend of an ancient Chinese scholar who scored first in the Imperial examinations by using such a personalized brush. Calligraphy brushes are widely considered an extension of the calligrapher's arm. Today, calligraphy may also be done using a pen, but pen calligraphy does not enjoy the same prestige as traditional brush calligraphy.</li>
+<li>A <b><a href="/wiki/Quill" title="Quill">quill</a></b> is a pen made from a <a href="/wiki/Flight_feather" title="Flight feather">flight feather</a> of a large bird, most often a <a href="/wiki/Goose" title="Goose">goose</a>. Quills were used as instruments for writing with ink before the metal dip pen, the fountain pen, and eventually the ballpoint pen came into use. Quill pens were used in <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">medieval</a> times to write on <a href="/wiki/Parchment" title="Parchment">parchment</a> or paper. The quill eventually replaced the reed pen.</li>
+<li>A <b><a href="/wiki/Reed_pen" title="Reed pen">reed pen</a></b> is cut from a reed or bamboo, with a slit in a narrow tip. Its mechanism is essentially similar to that of a quill. The reed pen has almost disappeared but it is still used by young school students in some parts of India and Pakistan, who learn to write with them on small timber boards known as "Takhti".</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:US68445.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/US68445.png/220px-US68445.png" width="220" height="254" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/US68445.png/330px-US68445.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f0/US68445.png 2x" data-file-width="333" data-file-height="385" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:US68445.png" class="internal" title="Enlarge"></a></div>
+M. Klein and Henry W. Wynne received US patent#68445 in 1867 for an ink chamber and delivery system in the handle of the fountain pen.</div>
+</div>
+</div>
+<p><a href="/wiki/Ancient_Egypt" title="Ancient Egypt">Ancient Egyptians</a> had developed writing on <a href="/wiki/Papyrus" title="Papyrus">papyrus</a> scrolls when scribes used thin reed brushes or <a href="/wiki/Reed_pen" title="Reed pen">reed pens</a> from the <i><a href="/wiki/Juncus_maritimus" title="Juncus maritimus">Juncus maritimus</a></i> or sea rush.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In his book <i>A History of Writing</i>, Steven Roger Fischer suggests that on the basis of finds at <a href="/wiki/Saqqara" title="Saqqara">Saqqara</a>, the reed pen might well have been used for writing on parchment as long ago as the First Dynasty or about 3000 BC. Reed pens continued to be used until the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> although they were slowly replaced by quills from about the 7th century. The reed pen, generally made from bamboo, is still used in some parts of Pakistan by young students and is used to write on small boards made of timber.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup></p>
+<p>The reed pen survived until papyrus was replaced by animal skins, vellum and parchment, as a writing surface. The smoother surface of skin allowed finer, smaller writing by the quill pen, derived from the flight feather.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The <a href="/wiki/Quill" title="Quill">quill pen</a> was used in Qumran, Judea to write some of the <a href="/wiki/Dead_Sea_Scrolls" title="Dead Sea Scrolls">Dead Sea Scrolls</a>, which date back to around 100 BC. The scrolls were written in <a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a> dialects with bird feathers or quills. After the fall of the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>, Europeans had difficulty in obtaining reeds<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup> and began to use quills. There is a specific reference to quills in the writings of <a href="/wiki/St._Isidore_of_Seville" class="mw-redirect" title="St. Isidore of Seville">St. Isidore of Seville</a> in the 7th century.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Quill pens were still widely used in the 18th century, and were used to write and sign the <a href="/wiki/Constitution_of_the_United_States" class="mw-redirect" title="Constitution of the United States">Constitution of the United States</a> in 1787.</p>
+<p>A copper <a href="/wiki/Nib_(pen)" title="Nib (pen)">nib</a> was found in the ruins of <a href="/wiki/Pompeii" title="Pompeii">Pompeii</a> showing that metal nibs were used in the year 79.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> There is also a reference to 'a silver pen to carry ink in', in <a href="/wiki/Samuel_Pepys" title="Samuel Pepys">Samuel Pepys</a>' diary for August 1663.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> 'New invented' metal pens are advertised in <i>The Times</i> in 1792.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> A metal pen point was patented in 1803 but the patent was not commercially exploited. A patent for the manufacture of metal pens was advertised for sale by <a href="/wiki/Bryan_Donkin" title="Bryan Donkin">Bryan Donkin</a> in 1811.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> John Mitchell of <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> started to mass-produce pens with metal nibs in 1822, and thereafter the quality of steel nibs had improved enough that dip pens with metal nibs came into generalized use.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden,_1636_-_4696404.tif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif/lossy-page1-220px-Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif.jpg" width="220" height="266" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif/lossy-page1-330px-Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif/lossy-page1-440px-Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden%2C_1636_-_4696404.tif.jpg 2x" data-file-width="2411" data-file-height="2913" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schwenter_-_Deliciae_physico-mathematicae_oder_Mathemat._und_philosophische_Erquickstunden,_1636_-_4696404.tif" class="internal" title="Enlarge"></a></div>
+<i>Deliciae physico-mathematicae</i>, 1636</div>
+</div>
+</div>
+<p>The earliest historical record of a pen employing a reservoir dates back to the 10th century. In 953, <a href="/wiki/Al_Muizz" class="mw-redirect" title="Al Muizz">Ma'ād al-Mu'izz</a>, the <a href="/wiki/Fatimid_Caliphate" title="Fatimid Caliphate">Fatimid Caliph</a> of <a href="/wiki/Egypt" title="Egypt">Egypt</a>, demanded a pen which would not stain his hands or clothes, and was provided with a pen which held ink in a reservoir and delivered it to the nib.<sup id="cite_ref-bosworth1981_12-0" class="reference"><a href="#cite_note-bosworth1981-12">[12]</a></sup> This pen may have been a fountain pen, but its mechanism remains unknown, and only one record mentioning it has been found. A later reservoir pen was developed in 1636. In his <i>Deliciae Physico-Mathematicae</i> (1636), <a href="/wiki/Germans" title="Germans">German</a> inventor <a href="/wiki/Daniel_Schwenter" title="Daniel Schwenter">Daniel Schwenter</a> described a pen made from two quills. One quill served as a reservoir for ink inside the other quill. The ink was sealed inside the quill with <a href="/wiki/Cork_(material)" title="Cork (material)">cork</a>. Ink was squeezed through a small hole to the writing point. In 1809, Bartholomew Folsch received a patent in <a href="/wiki/England" title="England">England</a> for a pen with an ink reservoir.<sup id="cite_ref-bosworth1981_12-1" class="reference"><a href="#cite_note-bosworth1981-12">[12]</a></sup></p>
+<p>While a student in <a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/Romania" title="Romania">Romanian</a> <a href="/wiki/Petrache_Poenaru" title="Petrache Poenaru">Petrache Poenaru</a> invented the <a href="/wiki/Fountain_pen" title="Fountain pen">fountain pen</a>, which the <a href="/wiki/French_Government" class="mw-redirect" title="French Government">French Government</a> patented in May 1827. Fountain pen patents and production then increased in the 1850s.</p>
+<p>The first patent on a ballpoint pen was issued on October 30, 1888, to <a href="/w/index.php?title=John_J_Loud&amp;action=edit&amp;redlink=1" class="new" title="John J Loud (page does not exist)">John J Loud</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> In 1938, <a href="/wiki/L%C3%A1szl%C3%B3_B%C3%ADr%C3%B3" title="László Bíró">László Bíró</a>, a Hungarian newspaper editor, with the help of his brother George, a chemist, began to work on designing new types of pens including one with a tiny <a href="/wiki/Ball" title="Ball">ball</a> in its tip that was free to turn in a socket. As the pen moved along the paper, the ball rotated, picking up ink from the ink cartridge and leaving it on the paper. Bíró filed a British patent on June 15, 1938. In 1940 the Bíró brothers and a friend, Juan Jorge Meyne, moved to <a href="/wiki/Argentina" title="Argentina">Argentina</a> fleeing Nazi Germany and on June 10, filed another patent, and formed <i>Bíró Pens of <a href="/wiki/Argentina" title="Argentina">Argentina</a></i>. By the summer of 1943 the first commercial models were available.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Erasable ballpoint pens were introduced by <a href="/wiki/Papermate" class="mw-redirect" title="Papermate">Papermate</a> in 1979 when the <a href="/wiki/Erasermate" title="Erasermate">Erasermate</a> was put on the market.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vulcan_Ink_Pencil_advertisement,_1915.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vulcan_Ink_Pencil_advertisement%2C_1915.jpg/220px-Vulcan_Ink_Pencil_advertisement%2C_1915.jpg" width="220" height="88" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vulcan_Ink_Pencil_advertisement%2C_1915.jpg/330px-Vulcan_Ink_Pencil_advertisement%2C_1915.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vulcan_Ink_Pencil_advertisement%2C_1915.jpg/440px-Vulcan_Ink_Pencil_advertisement%2C_1915.jpg 2x" data-file-width="1396" data-file-height="557" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vulcan_Ink_Pencil_advertisement,_1915.jpg" class="internal" title="Enlarge"></a></div>
+1915 advertisement for "Vulcan" Ink Pencils.</div>
+</div>
+</div>
+<p><a href="/wiki/Slavoljub_Eduard_Penkala" title="Slavoljub Eduard Penkala">Slavoljub Eduard Penkala</a>, a naturalized <a href="/wiki/Croats" title="Croats">Croatian</a> engineer and <a href="/wiki/Inventor" class="mw-redirect" title="Inventor">inventor</a> of <a href="/wiki/Poles" title="Poles">Polish</a>-<a href="/wiki/Dutch_people" title="Dutch people">Dutch</a> origin from the <a href="/wiki/Kingdom_of_Croatia-Slavonia" title="Kingdom of Croatia-Slavonia">Kingdom of Croatia-Slavonia</a> in <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a>, became renowned for further development of the mechanical pencil (1906) – then called an "automatic pencil" – and the first solid-ink fountain pen (1907). Collaborating with an entrepreneur by the name of <a href="/wiki/Edmund_Moster" title="Edmund Moster">Edmund Moster</a>, he started the Penkala-Moster Company and built a pen-and-pencil factory that was one of the biggest in the world at the time. This company, now called <i>TOZ-Penkala</i>, still exists today. "TOZ" stands for "<i>Tvornica olovaka Zagreb</i>", meaning "<a href="/wiki/Zagreb" title="Zagreb">Zagreb</a> Pencil Factory".</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marker1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/220px-Marker1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/330px-Marker1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marker1.jpg/440px-Marker1.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marker1.jpg" class="internal" title="Enlarge"></a></div>
+Modern marker pens.</div>
+</div>
+</div>
+<p>In the 1960s, the fiber or <a href="/wiki/Felt-tipped_pen" class="mw-redirect" title="Felt-tipped pen">felt-tipped pen</a> was invented by Yukio Horie of the <a href="/w/index.php?title=Tokyo_Stationery_Company&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Stationery Company (page does not exist)">Tokyo Stationery Company</a>, Japan.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Papermate's Flair was among the first felt-tip pens to hit the U.S. market in the 1960s, and it has been the leader ever since. <a href="/wiki/Marker_pen" title="Marker pen">Marker pens</a> and <a href="/wiki/Highlighter" title="Highlighter">highlighters</a>, both similar to felt pens have become popular in recent times.</p>
+<p><a href="/wiki/Rollerball_pen" title="Rollerball pen">Rollerball pens</a> were introduced in the early 1970s. They make use of a mobile ball and liquid ink to produce a smoother line. Technological advances achieved during the late 1980s and early 1990s have improved the roller ball's overall performance. A <a href="/wiki/Porous_point_pen" class="mw-redirect" title="Porous point pen">porous point pen</a> contains a point that is made of some porous material such as felt or ceramic. A high quality drafting pen will usually have a ceramic tip, since this wears well and does not broaden when pressure is applied while writing.</p>
+<p>Although the invention of the typewriter and <a href="/wiki/Personal_computer" title="Personal computer">personal computer</a> with the <a href="/wiki/Keyboard_(computing)" class="mw-redirect" title="Keyboard (computing)">keyboard</a> input method have changed how users write, the pen has not been entirely replaced.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Higher end pens including fountain pens are still a <a href="/wiki/Status_symbol" title="Status symbol">status symbol</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:pens" class="extiw" title="commons:Category:pens">pens</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Pens" class="extiw" title="q:Pens">Pens</a></b></i></td>
+</tr>
+</table>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Active_pen" title="Active pen">Active pen</a></li>
+<li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Counterfeit_banknote_detection_pen" title="Counterfeit banknote detection pen">Counterfeit banknote detection pen</a></li>
+<li><a href="/wiki/Digital_pen" title="Digital pen">Digital pen</a></li>
+<li><a href="/wiki/Gel_pen" title="Gel pen">Gel pen</a></li>
+<li><a href="/wiki/Ink" title="Ink">Ink</a></li>
+<li><a href="/wiki/List_of_pen_types,_brands_and_companies" title="List of pen types, brands and companies">List of pen types, brands and companies</a></li>
+<li><a href="/wiki/Pen_spinning" title="Pen spinning">Pen spinning</a></li>
+<li><a href="/wiki/Pencil" title="Pencil">Pencil</a></li>
+<li><a href="/wiki/Retractable_pen" title="Retractable pen">Retractable pen</a></li>
+<li><a href="/wiki/Ruling_pen" title="Ruling pen">Ruling pen</a></li>
+<li><a href="/wiki/Space_Pen" class="mw-redirect" title="Space Pen">Space Pen</a></li>
+<li><a href="/wiki/Stylus" title="Stylus">Stylus</a></li>
+<li><a href="/wiki/Technical_pen" title="Technical pen">Technical pen</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=6" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/pen">Pen</a>. Merriam-Webster Dictionary</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"pen." Word Histories and Mysteries. Boston: Houghton Mifflin, 2004. Credo Reference. Web. 13 September 2007.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://science.howstuffworks.com/question683.htm">"How does a ballpoint pen work?"</a>. <i>Engineering</i>. HowStuffWorks. 1998–2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.atitle=How+does+a+ballpoint+pen+work%3F&amp;rft.date=1998%2F2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscience.howstuffworks.com%2Fquestion683.htm&amp;rft.jtitle=Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lib.umich.edu/pap/exhibits/writing/reed_pen.html">Egyptian reed pen</a> Retrieved March 16, 2007.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"pen." The Hutchinson Unabridged Encyclopedia with Atlas and Weather guide. Abington: Helicon, 2010. Credo Reference. Web. 17 September 2012</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780511217593&amp;ss=ind">The Etymologies of Isidore of Seville</a>, Cambridge Catalogue Retrieved March 11, 2007.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arnoldwagner.com/dippens/dip_pens1.htm">Arnold Wagner – Dip Pens</a>. Retrieved March 11, 2007.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">'This evening came a letter about business from Mr Coventry, and with it a silver pen to carry inke in, which is very necessary.' Diary of Samuel Pepys, 5 August 1663:<a rel="nofollow" class="external free" href="http://www.pepysdiary.com/archive/1663/08/">http://www.pepysdiary.com/archive/1663/08/</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The advertisement implies metal nibs had been in use for some years, but had not been generally accepted due to lack of flexibility and tendency to rust. It refers to 'Ivory Handles' with 'Gold Silver or Steel Pens to each', and says that 'new pens may be fitted in at pleasure', indicating only the nibs were metal. It also claims the pens have 'well-tempered Elasticity' and that the 'Steel Points' are treated to be rustproof, rust being 'a circumstance that has been long and universally complained of in this article'. <cite class="citation journal">"The Times". 8 June 1792: 4.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.atitle=The+Times&amp;rft.date=1792-06-08&amp;rft.genre=article&amp;rft.pages=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">He offered the patent, which had an unexpired term of 11 years, for sale together with the 'utensils peculiarly adapted to the manufacturing' of the metal pens:<cite class="citation journal">"The Times". 15 August 1811: 4.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.atitle=The+Times&amp;rft.date=1811-08-15&amp;rft.genre=article&amp;rft.pages=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">In 1832 a woman accused of stealing a silver pen from a <a href="/wiki/London" title="London">London</a> shop said in her defence that she had 'one of the common metal pens' with her:<cite class="citation journal">"The Times". 15 September 1832: 3.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.atitle=The+Times&amp;rft.date=1832-09-15&amp;rft.genre=article&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bosworth1981-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-bosworth1981_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bosworth1981_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBosworth1981" class="citation">Bosworth, C. E. (Autumn 1981), "A Mediaeval Islamic Prototype of the Fountain Pen?", <i><a href="/wiki/Journal_of_Semitic_Studies" title="Journal of Semitic Studies">Journal of Semitic Studies</a></i>, <b>XXVI</b> (i)</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.atitle=A+Mediaeval+Islamic+Prototype+of+the+Fountain+Pen%3F&amp;rft.aufirst=C.+E.&amp;rft.aulast=Bosworth&amp;rft.date=1981&amp;rft.genre=article&amp;rft.issue=i&amp;rft.jtitle=Journal+of+Semitic+Studies&amp;rft.ssn=fall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=XXVI" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">GB Patent No. 15630, October 30, 1888</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.quido.cz/objevy/propis.a.htm">The Ballpoint Pen</a>, Quido Magazin. Retrieved March 11, 2007.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://inventors.about.com/library/inventors/blpen.htm">History of Pens &amp; Writing Instruments</a>, About Inventors site. Retrieved March 11, 2007.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rediff.com/netguide/2003/may/05genx.htm">"Losing touch with paper and pen"</a>. Rediff.com. 2003-05-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APen&amp;rft.btitle=Losing+touch+with+paper+and+pen&amp;rft.date=2003-05-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rediff.com%2Fnetguide%2F2003%2Fmay%2F05genx.htm&amp;rft.pub=Rediff.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Guilfoil, John M. (August 17, 2008) <a rel="nofollow" class="external text" href="http://www.boston.com/business/articles/2008/08/17/the_power_of_the_pen/">The power of the pen</a>. <i>Boston.com</i></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pen&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/pen" class="extiw" title="wiktionary:pen">pen</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wima.org/">Writing Instrument Manufacturers Association</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Pens" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pens" title="Template:Pens"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pens" title="Template talk:Pens"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pens&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Pens" style="font-size:114%"><strong class="selflink">Pens</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_pen" title="Active pen">Active pen</a></li>
+<li><a href="/wiki/Ballpoint_pen" title="Ballpoint pen">Ballpoint/biro</a></li>
+<li><a href="/wiki/Demonstrator_pen" title="Demonstrator pen">Demonstrator</a></li>
+<li><a href="/wiki/Digital_pen" title="Digital pen">Digital</a></li>
+<li><a href="/wiki/Dip_pen" title="Dip pen">Dip</a></li>
+<li><a href="/wiki/Fountain_pen" title="Fountain pen">Fountain</a></li>
+<li><a href="/wiki/Fudepen" title="Fudepen">Fudepen</a></li>
+<li><a href="/wiki/Gel_pen" title="Gel pen">Gel</a></li>
+<li><a href="/wiki/Ink_brush" title="Ink brush">Ink brush</a></li>
+<li><a href="/wiki/Light_pen" title="Light pen">Light</a></li>
+<li><a href="/wiki/Qalam" title="Qalam">Qalam</a></li>
+<li><a href="/wiki/Quill" title="Quill">Quill</a></li>
+<li><a href="/wiki/Rastrum" title="Rastrum">Rastrum</a></li>
+<li><a href="/wiki/Reed_pen" title="Reed pen">Reed</a></li>
+<li><a href="/wiki/Rollerball_pen" title="Rollerball pen">Rollerball</a></li>
+<li><a href="/wiki/Ruling_pen" title="Ruling pen">Ruling</a></li>
+<li><a href="/wiki/Skin_pens" title="Skin pens">Skin</a></li>
+<li><a href="/wiki/Stylus" title="Stylus">Stylus</a></li>
+<li><a href="/wiki/Technical_pen" title="Technical pen">Technical (rapidograph)</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Marker_pen" title="Marker pen">Markers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Marker_pen" title="Marker pen">Dry erase</a></li>
+<li><a href="/wiki/Highlighter" title="Highlighter">Highlighter</a></li>
+<li><a href="/wiki/Paint_marker" title="Paint marker">Paint</a></li>
+<li><a href="/wiki/Permanent_marker" title="Permanent marker">Permanent</a></li>
+<li><a href="/wiki/UV_marker" title="UV marker">UV</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Parts and tools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blotting_paper" title="Blotting paper">Blotting paper</a></li>
+<li><a href="/wiki/Desk_blotter" class="mw-redirect" title="Desk blotter">Ink blotter</a></li>
+<li><a href="/wiki/Inkwell" title="Inkwell">Inkwell</a></li>
+<li><a href="/wiki/Nib_(pen)" title="Nib (pen)">Nib</a> (<a href="/wiki/Flex_nibs" class="mw-redirect" title="Flex nibs">Flex nibs</a>)</li>
+<li><a href="/wiki/Penknife" title="Penknife">Penknife</a></li>
+<li><a href="/wiki/Pounce_(calligraphy)" title="Pounce (calligraphy)">Pounce</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ink" title="Ink">Pen inks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alizarine_ink" title="Alizarine ink">Alizarine</a></li>
+<li><a href="/wiki/Fountain_pen_ink" title="Fountain pen ink">Fountain pen</a></li>
+<li><a href="/wiki/India_ink" title="India ink">India/Indian</a></li>
+<li><a href="/wiki/Iron_gall_ink" title="Iron gall ink">Iron gall</a></li>
+<li><a href="/wiki/Stark%27s_ink" title="Stark's ink">Stark's</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ballpoint_pen_artwork" title="Ballpoint pen artwork">Ballpoint pen drawing</a></li>
+<li><a href="/wiki/Ballpoint_pen_knife" title="Ballpoint pen knife">Ballpoint pen knife</a></li>
+<li><a href="/wiki/Counterfeit_banknote_detection_pen" title="Counterfeit banknote detection pen">Counterfeit banknote detection pen</a></li>
+<li><a href="/wiki/Birmingham_pen_trade" title="Birmingham pen trade">Birmingham pen trade</a>
+<ul>
+<li><a href="/wiki/Birmingham_Pen_Trade_Heritage_Association" title="Birmingham Pen Trade Heritage Association">Birmingham Pen Trade Heritage Association</a></li>
+<li><a href="/wiki/Pen_Museum" title="Pen Museum">Pen Museum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Kalamos" title="Kalamos">Kalamos</a></li>
+<li><a href="/wiki/Pen_computing" title="Pen computing">Pen computing</a></li>
+<li><a href="/wiki/Penmanship" title="Penmanship">Penmanship</a></li>
+<li><a href="/wiki/Pen_painting" title="Pen painting">Pen painting</a></li>
+<li><a href="/wiki/Pen_spinning" title="Pen spinning">Pen spinning</a></li>
+<li><a href="/wiki/Retipping" title="Retipping">Retipping</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Cartoonist" title="Cartoonist">Cartooning</a></li>
+<li><a href="/wiki/Mechanical_pencil" title="Mechanical pencil">Mechanical pencil</a></li>
+<li><a href="/wiki/Narayam" title="Narayam">Narayam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" />&#160;<b><a href="/wiki/List_of_pen_types,_brands_and_companies" title="List of pen types, brands and companies">List of pen types, brands and companies</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Nuvola_apps_kmessedwords.png" class="image"><img alt="Nuvola apps kmessedwords.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/21px-Nuvola_apps_kmessedwords.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/32px-Nuvola_apps_kmessedwords.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/42px-Nuvola_apps_kmessedwords.png 2x" data-file-width="128" data-file-height="128" /></a></span><a href="/wiki/Portal:Writing" title="Portal:Writing">Writing portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170121215454
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.288 seconds
+Preprocessor visited node count: 1508/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31242/2097152 bytes
+Template argument size: 1379/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.424      1 -total
+ 28.58%   60.709      1 Template:Reflist
+ 23.69%   50.332      2 Template:Citation_needed
+ 21.63%   45.949      2 Template:Fix
+ 14.75%   31.340      2 Template:Cite_web
+ 13.74%   29.177      2 Template:Navbox
+ 12.41%   26.353      1 Template:Pens
+ 11.37%   24.146      1 Template:Commons_category
+ 10.40%   22.089      4 Template:Category_handler
+  9.87%   20.971      1 Template:Other_uses
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:75838-0!*!0!!en!4!* and timestamp 20170121215454 and revision id 761247675
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pen&amp;oldid=761247675">https://en.wikipedia.org/w/index.php?title=Pen&amp;oldid=761247675</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pens" title="Category:Pens">Pens</a></li><li><a href="/wiki/Category:Writing_implements" title="Category:Writing implements">Writing implements</a></li><li><a href="/wiki/Category:Stationery" title="Category:Stationery">Stationery</a></li><li><a href="/wiki/Category:Domestic_implements" title="Category:Domestic implements">Domestic implements</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pen"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pen"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pen" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pen&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pen&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pen&amp;oldid=761247675" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q165447" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pen&amp;id=761247675" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pen&amp;returnto=Pen&amp;oldid=761247675&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pens" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Pens" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Pen" title="Pen – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A5%E1%88%B5%E1%8A%AD%E1%88%AD%E1%89%A2%E1%89%B6" title="እስክርቢቶ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Fe%C3%B0er_(bl%C3%A6ces)" title="Feðer (blæces) – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%84%D9%85" title="قلم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%95%E0%A6%B2%E0%A6%AE" title="কলম – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Q%C9%99l%C9%99m" title="Qələm – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%B2%E0%A6%AE" title="কলম – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%83%D1%87%D0%BA%D0%B0,_%D0%BA%D0%B0%D0%BD%D1%86%D1%8B%D0%BB%D1%8F%D1%80%D1%8B%D1%8F" title="Ручка, канцылярыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D0%B4%D0%BA%D0%B0" title="Асадка – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Instrument_de_tinta" title="Instrument de tinta – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Pero_(psac%C3%AD_n%C3%A1%C4%8Din%C3%AD)" title="Pero (psací náčiní) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Pen" title="Pen – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Schreibstift" title="Schreibstift – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%8E%DE%A6%DE%8D%DE%A6%DE%82%DE%B0" title="ގަލަން – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Pluma_(escritura)" title="Pluma (escritura) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Plumo_(skribilo)" title="Plumo (skribilo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%85_(%D9%86%D9%88%D8%B4%D8%AA%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)" title="قلم (نوشت‌افزار) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Stylo" title="Stylo – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Peann" title="Peann – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Peann" title="Peann – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Pit" title="Pit – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8E%9C" title="펜 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%AB%D5%B9" title="Գրիչ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A5%80" title="लेखनी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Pena" title="Pena – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Penni" title="Penni – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%98" title="עט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B2%E0%B3%87%E0%B2%96%E0%B2%A8%E0%B2%BF" title="ಲೇಖನಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%BB%D0%B0%D0%BC" title="Қалам – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9A%E0%BA%B4%E0%BA%81" title="ບິກ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Pildspalva" title="Pildspalva – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Toll_(%C3%ADr%C3%B3eszk%C3%B6z)" title="Toll (íróeszköz) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D0%BA%D0%B0%D0%BB%D0%BE" title="Пенкало – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%87%E0%B4%A8" title="പേന – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pen" title="Pen – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/B%C3%A9k" title="Bék – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Pen" title="Pen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Penne_(skriefgerei)" title="Penne (skriefgerei) – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A4%B2%E0%A4%AE" title="कलम – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3" title="ペン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Penn" title="Penn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AC%B2%E0%AC%AE" title="କଲମ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A8%B2%E0%A8%AE" title="ਕਲਮ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%84%DB%8C%DA%A9%D8%A7%DA%BC%DB%8D" title="لیکاڼۍ – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%8A%E1%9E%B7%E1%9E%85" title="ប៊ិច – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Caneta" title="Caneta – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%87%D0%BA%D0%B0_(%D0%BA%D0%B0%D0%BD%D1%86%D0%B5%D0%BB%D1%8F%D1%80%D0%B8%D1%8F)" title="Ручка (канцелярия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Pen" title="Pen – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Lapsi" title="Lapsi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Pen" title="Pen – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%82%D9%84%D9%85" title="قلم – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Pero_(n%C3%A1stroj_na_p%C3%ADsanie)" title="Pero (nástroj na písanie) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Qalin" title="Qalin – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%8E%D9%86%D9%88%D9%88%D8%B3" title="پێنووس – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BE" title="Перо – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Pero" title="Pero – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kyn%C3%A4" title="Kynä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Penna" title="Penna – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8B%E0%AE%B2%E0%AF%8D" title="எழுதுகோல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%B2%E0%B0%AE%E0%B1%81" title="కలము – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2" title="ปากกา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%87%D0%BA%D0%B0_(%D0%BA%D0%B0%D0%BD%D1%86%D0%B5%D0%BB%D1%8F%D1%80%D1%96%D1%8F)" title="Ручка (канцелярія) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%82%D9%84%D9%85" title="قلم – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Pena" title="Pena – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/B%C3%BAt" title="Bút – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%A2%D7%93%D7%A2%D7%A8" title="פעדער – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%AD%86" title="筆 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%AD%86" title="筆 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q165447#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 January 2017, at 21:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.288","ppvisitednodes":{"value":1508,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31242,"limit":2097152},"templateargumentsize":{"value":1379,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  212.424      1 -total"," 28.58%   60.709      1 Template:Reflist"," 23.69%   50.332      2 Template:Citation_needed"," 21.63%   45.949      2 Template:Fix"," 14.75%   31.340      2 Template:Cite_web"," 13.74%   29.177      2 Template:Navbox"," 12.41%   26.353      1 Template:Pens"," 11.37%   24.146      1 Template:Commons_category"," 10.40%   22.089      4 Template:Category_handler","  9.87%   20.971      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":3495864,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170121215454","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1247"});});</script>
+	</body>
+</html>
