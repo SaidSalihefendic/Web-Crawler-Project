@@ -75,7 +75,7 @@ bool jeValidanURL(string URL)
     Brisanje << "" << endl;
     Brisanje.close();
 
-    string stranica = "C:/Users/Said_2/Desktop/ASK/curl/bin/curl -o test.txt " + URL;
+    string stranica = "<PATHTOCURL> -o test.txt " + URL;
     system(stranica.c_str()); //Dobavljanje source koda stranice, ako postoji
 
     //provjera validnosti stranice (tj. gledamo da li je cURL uspio da skine source kod stranice
@@ -265,7 +265,7 @@ void sourceKodStranica(int n)
     {
         getline(URLstranica, url);
         string brojka = u_string(broj); //u_string funkcija pretvara broj u integer
-        string stranica = "C:/Users/Said_2/Desktop/ASK/curl/bin/curl -o Stranice/stranica" + brojka + ".txt " + url;
+        string stranica = "<PATHTOCURL> -o Stranice/stranica" + brojka + ".txt " + url;
         system(stranica.c_str());
 
         broj++;
@@ -330,7 +330,7 @@ void filtriranje(int broj_stranica)
                             jeTag = false;
 
                         //ovaj uslov se potrudi da izdvoji samo slova i neke simbole poput ' i -
-                        if(i < duzina and !jeTag and ((linija.at(i) >= 'A' and linija.at(i) <= 'Z') or (linija.at(i) >= 'a' and linija.at(i) <= 'z') or linija.at(i) == ' ' or linija.at(i) == '-' or linija.at(i) == '\'' or linija.at(i) == '–'))
+                        if(i < duzina and !jeTag and ((linija.at(i) >= 'A' and linija.at(i) <= 'Z') or (linija.at(i) >= 'a' and linija.at(i) <= 'z') or linija.at(i) == ' ' or linija.at(i) == '-' or linija.at(i) == '\'' or linija.at(i) == 'Â–'))
                             Tekst << linija.substr(i, 1);
                     }
                 }
