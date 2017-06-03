@@ -1,5 +1,5 @@
 # Web-Crawler-Project
-A simple Web Crawler (Uni Project) capable to take the URL input from the user, user then tells it how many sites he/she wants to open that are connected to the initial site, and saves the 5 most used words that have 5 or more letters in each site and overall in folder Rijeci!
+A simple beginner Web Crawler (Uni Project) capable to take the URL input from the user, user then tells it how many sites he/she wants to open that are connected to the initial site, and saves the 5 most used words that have 5 or more letters in each site and overall in folder Rijeci!
 
 NOTE
  Before use, you have to change some code in order work properly! Otherwise, it won't work!
