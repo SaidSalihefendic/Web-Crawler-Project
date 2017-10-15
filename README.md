@@ -21,3 +21,5 @@ Any bug reports, advices and comments will be appreciated!
 I used cURL binary from https://curl.haxx.se/ in order to achieve my goal!
 
 Credits: Anes Cehic, Kristijan Jelic (colleagues)
+
+NOTE: The names of the functions, variables and files are in our native language, we will try in the future to change them to English, including the comments.
